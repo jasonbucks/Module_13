@@ -8,9 +8,7 @@ As a risk management associate at Alphabet Soup, a venture capital firm, I am ta
 
 ## Technologies
 
-This Jupyter Notebook was uploaded and run in Google Colab to help with issues with FB Prophet running on my machine via Jupyter Labs.  To access the notebook directly from my Google Colab Drive, navigate to https://colab.research.google.com/drive/1TLFneEL1z_A8PuZFJL9osUKnEK5Cv7LN?usp=sharing 
-
-It leverages python 3.7.11 with the following packages:
+This project leverages python 3.7.11 with the following packages:
 
 * [pandas](https://pandas.pydata.org) - Use the Pandas library, along with JupyterLab, to collect, prepare and analyze data.
 
